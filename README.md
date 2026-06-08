@@ -1,6 +1,3 @@
-İşte projeni GitHub veya benzeri portfolyo platformlarında profesyonelce sergileyebileceğin, teknik detayları ve kullandığın teknolojileri öne çıkaran README taslağı. Doğrudan kopyalayıp kullanabilirsin:
-ŞOK Marketler - Bilişim Altyapısı Modernizasyonu ve Sanallaştırma
-
 Bu proje, perakende sektöründe faaliyet gösteren ŞOK Marketler zincirinin bilişim altyapısının modernizasyonu için Sistem Geliştirme Yaşam Döngüsü (SDLC) prensiplerine uygun olarak tasarlanmış, uçtan uca sanal bir ağ altyapısı simülasyonudur.
 📝 Proje Özeti
 
